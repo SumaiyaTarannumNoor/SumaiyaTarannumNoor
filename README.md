@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/SUMAIYATARANNUMNOOR/cool.gif)
+https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/cool.gif
 <!--
 **SumaiyaTarannumNoor/SumaiyaTarannumNoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

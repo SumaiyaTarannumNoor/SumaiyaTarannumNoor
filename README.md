@@ -1,8 +1,9 @@
 ### Hi there 👋
 ![]()
 <p align="center">
+  
   <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/moon.gif" alt="animated" />
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/loading.gif" alt="animated" />
+
 </p>
 
 <!--

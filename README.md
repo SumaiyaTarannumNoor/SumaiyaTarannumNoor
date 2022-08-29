@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![]()
 <p align="center"> 
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/moon.gif" alt="animated"  />
+ 
   <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated" style="padding: 150px 200px 0px 0px; 
-            background: url('https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/moon.gif'); 
+            background: url("https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/moon.gif"); 
             background-size:auto; 
             width:0px; 
             height: 0px;/>

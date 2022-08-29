@@ -4,8 +4,6 @@
  
   <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated"/>
   <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated"/>
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated"/>
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated"/>
 </p>
 
 <!--

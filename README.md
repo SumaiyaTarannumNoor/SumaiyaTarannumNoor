@@ -1,6 +1,7 @@
 ### HELLO!!!!! 😁
 ![]()
-<body style= "background-image:url("https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/300521006_613080143539766_258726808226141485_n.jpg")">
+<body>
+  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/300521006_613080143539766_258726808226141485_n.jpg"/>
 <p align="center"> 
  
   <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated"/>

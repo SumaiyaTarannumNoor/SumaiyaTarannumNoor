@@ -4,7 +4,7 @@
 
 <p align="center"> 
  
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated" width= "300" height="300"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated" width= "500" height="300"/>
   
   <p align="center"> 
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

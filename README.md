@@ -14,7 +14,7 @@
    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/> </a>
    <a href="https://html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/> </a>
    <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/></a>
-   <a href="https://www.codeigniter.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/385/811/png-clipart-codeigniter-laravel-jquery-php-logo-codeigniter-web-design-text.png" alt="codeigniter" width="40" height="40"/></a>
+   <a href="https://www.codeigniter.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" alt="codeigniter" width="40" height="40"/></a>
    
   </p>
  

@@ -4,7 +4,7 @@
 
 <p align="center"> 
  
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/cool3.gif" alt="animated" width= "700" height="400"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/cool3.gif" alt="animated" width= "600" height="400"/>
   
   <p align="center"> 
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="left-padding:200px"> 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div> 
+<img height="200px" style="left-padding:200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>

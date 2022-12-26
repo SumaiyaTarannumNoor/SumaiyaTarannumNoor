@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="stats" /></a>"
+<!-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="stats" />" -->
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&bg_color=90,071c4d,002d97&title_color=175cff&text_color=fff" alt="stats" />
 <br>
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&theme=algolia&layout=compact">
 </div>

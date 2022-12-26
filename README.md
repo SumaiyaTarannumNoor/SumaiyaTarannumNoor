@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div> 
-<!-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+<div align="center"> 
+<!-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> --><br>
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&theme=dark&layout=compact">
 </div>

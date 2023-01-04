@@ -37,14 +37,16 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 <!-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="stats" />" -->
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&bg_color=90,071c4d,002d97&title_color=175cff&text_color=fff" alt="stats" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff" alt="stats" />
 <br>
  <!--<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&theme=algolia&layout=compact"> -->
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&bg_color=40,14ffe9,002d97,0000FF&title_color=175cff&title_weight=400&text_color=fff&font_weight=300&font_size=10px&layout=compact">
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff&title_weight=400&font_weight=300&font_size=10px&layout=compact">
 </div>
 <div>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
+ 
+<!-- 
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -53,9 +55,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
- 
-<!-- <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
  <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
  <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" />

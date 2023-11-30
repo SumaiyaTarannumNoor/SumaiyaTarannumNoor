@@ -1,8 +1,11 @@
 ### HELLO!!!!! 😁
-
+ <p>
+    For anyone interested in helping the people of Palestine -
+    <a href="https://sharethemeal.org/en-us/campaigns/palestine11?#">ShareTheMeal</a>
+   </p>
 <body>
 
-<p align="center"> 
+<p align="center">
  
   <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/walk2.gif" alt="animated" width= "700" height="400"/>
   

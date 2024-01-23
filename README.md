@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 <!-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="stats" />" -->
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff" alt="stats" />
-<br>
+<!--  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff" alt="stats" />
+<br> -->
  <!--<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&theme=algolia&layout=compact"> -->
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff&title_weight=400&font_weight=300&font_size=10px&layout=compact">
 </div>

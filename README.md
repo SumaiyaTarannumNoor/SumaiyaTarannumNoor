@@ -7,19 +7,19 @@
 
 <p align="center">
  
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated" width= "700" height="400"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/butterflies.gif" alt="animated" width= "700" height="600"/>
   
-<!--   <p align="center"> 
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/> </a>
-   <a href="https://html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/> </a>
-   <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/></a>
-   <a href="https://www.codeigniter.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" alt="codeigniter" width="40" height="40"/></a>
+<p align="center"> 
+   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
+   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>
+   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="60" height="60"/> </a>
+   <a href="https://html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/660px-HTML5_logo_and_wordmark.svg.png" alt="html" width="60" height="60"/> </a>
+   <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="60" height="60"/></a>
+   <a href="https://www.codeigniter.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" alt="codeigniter" width="60" height="60"/></a>
    
-  </p> -->
+  </p>
  <p align="center">
  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sumaiyatarannumnoor&show_icons=true&include_all_commits=true&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff" alt="stats" />
 <br>
  <!--<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&theme=algolia&layout=compact"> -->
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff&title_weight=400&font_weight=300&font_size=10px&layout=compact">
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&bg_color=30,071c4d,002d97&title_color=175cff&text_color=fff&title_weight=600&font_weight=300&font_size=10px&layout=compact">
 </div>
 <div>
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
- <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/express.js-%23604d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />

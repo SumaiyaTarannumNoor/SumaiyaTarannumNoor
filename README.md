@@ -2,7 +2,7 @@
  <p>
     For anyone interested in helping the people of Palestine -
     <a href="https://sharethemeal.org/en-us/campaigns/palestine11?#">ShareTheMeal</a> <br> <br>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Palestine.png" alt="Lone Wolf" width= "60" height="30"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Flag_of_Palestine.png" alt="Lone Wolf" width= "60" height="40"/>
    </p>
 <body>
 

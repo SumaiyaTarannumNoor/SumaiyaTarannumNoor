@@ -57,9 +57,10 @@ Here are some ideas to get you started:
  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyatarannumnoor&&bg_color=90,071c4d,002d97&title_color=175cff&text_color=fff&title_weight=400&font_weight=600&font_size=10px&layout=compact">
 </div>
 
-<div>
+<!--<div>
  <a href="https://github.com/sumaiyatarannumnoor?tab=repositories"><img alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiyatarannumnoor&&bg_color=071c4d&title_color=175cff&color=FFFFFF&text_color=FFFFFF&line=175cff&point=FFFFFF&hide_border=truetitle_weight=400&font_weight=600&font_size=10px&layout=compact" /></a>
-</div>
+</div>-->
+
 <div>
 
  

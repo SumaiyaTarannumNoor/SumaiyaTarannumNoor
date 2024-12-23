@@ -8,7 +8,7 @@
 
 <p align="center">
  
-  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/gifs/11.gif" alt="animated" width= "800" height="800"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/SumaiyaTarannumNoor/blob/main/gifs/9.gif" alt="animated" width= "700" height="900"/>
   
 <p align="center"> 
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>

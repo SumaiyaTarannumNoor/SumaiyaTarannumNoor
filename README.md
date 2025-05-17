@@ -1,4 +1,4 @@
-### HELLO!!!!! 😁
+ki### HELLO!!!!! 😁
  <p>
     For anyone interested in helping the people of Palestine -
     <a href="https://sharethemeal.org/en-us/campaigns/palestine11?#">ShareTheMeal</a>, <a href="https://partners.getmoredonations.org/campaign/gaza/FUNJEDDHAHX/">Najam Institute</a> <br> <br>
@@ -7,7 +7,7 @@
 <body>
 
 <p align="center"> 
-  <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/8.gif" alt="Lone Wolf" width= "600" height="400"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/8.gif" alt="Lone Wolf" width= "600" height="500"/>
   
 <p align="center"> 
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>

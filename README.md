@@ -8,7 +8,11 @@ For anyone interested in helping the people of Palestine -
 
 <p align="center"> 
   <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/8.gif" alt="Lone Wolf" width= "600" height="500"/>
-  
+ 
+
+ ![](https://github-profile-trophy.vercel.app/?username=SumaiyaTarannumNoor&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+ 
 <p align="center"> 
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/react.png" alt="React" width="60" height="60"/></a>

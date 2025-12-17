@@ -8,7 +8,7 @@ For anyone interested in helping the people of Palestine -
 
 <p align="center"> 
   <p align="center"> 
-  <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/17.gif" alt="Lone Wolf" width= "800" height="400"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/18.gif" alt="Lone Wolf" width= "800" height="400"/>
  
 
  ![](https://github-profile-trophy.vercel.app/?username=SumaiyaTarannumNoor&theme=onestar&no-frame=true&no-bg=false&margin-w=4)

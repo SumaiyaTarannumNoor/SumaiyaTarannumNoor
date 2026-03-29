@@ -1,4 +1,8 @@
 HELLO!!!!! 😁
+<p>
+Make a nice Resume for yourself ✨ - <br>
+<a href="https://makeforme.lovable.app/"><img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/Make%20Me%20resume%20logo%20design.png" alt="Lone Wolf" width= "200" height="200"/></a>
+</p>
  <p>
 For anyone interested in helping the people of Palestine -
     <a href="https://sharethemeal.org/en-us/campaigns/palestine11?#">ShareTheMeal</a>, <a href="https://partners.getmoredonations.org/campaign/gaza/FUNJEDDHAHX/">Najam Institute</a> <br> <br>

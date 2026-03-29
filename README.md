@@ -1,7 +1,7 @@
 HELLO!!!!! 😁
 <p>
 Make a nice Resume for yourself ✨ - <br>
-<a href="https://makeforme.lovable.app/"><img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/Make%20Me%20resume%20logo%20design.png" alt="Lone Wolf" width= "200" height="200"/></a>
+<a href="https://makeforme.lovable.app/"><img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/Make%20Me%20resume%20logo%20design.png" alt="Lone Wolf" width= "160" height="160"/></a>
 </p>
  <p>
 For anyone interested in helping the people of Palestine -
@@ -12,7 +12,7 @@ For anyone interested in helping the people of Palestine -
 
 <p align="center"> 
   <p align="center"> 
-  <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/Found It.gif" alt="Lone Wolf" width= "600" height="900"/>
+  <img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/gifs/Found It.gif" alt="Lone Wolf" width= "700" height="900"/>
  
 
  ![](https://github-profile-trophy.vercel.app/?username=SumaiyaTarannumNoor&theme=onestar&no-frame=true&no-bg=false&margin-w=4)

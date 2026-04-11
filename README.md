@@ -1,7 +1,7 @@
 HELLO!!!!! 😁
 <p>
 Make a nice Resume for yourself ✨ - <br>
-<a href="https://makeforme.lovable.app/"><img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/Make%20Me%20resume%20logo%20design.png" alt="Lone Wolf" width= "160" height="160"/></a>
+<a href="https://makeforme.lovable.app/"><img src="https://github.com/SumaiyaTarannumNoor/MISabic/blob/main/Make%20Me.png" alt="Lone Wolf" width= "160" height="160"/></a>
 </p>
  <p>
 For anyone interested in helping the people of Palestine -
